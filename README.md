@@ -1,6 +1,9 @@
 # context-image-search
 Extension that adds and text-to-image search in Google Chrome right-click menu.
 
+![Demo](demo.gif)
+
+
 # Search Google Images from Text
 
 A lightweight Chrome extension that adds a right-click menu option to search selected text directly on **Google Images**.
